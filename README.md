@@ -13,5 +13,6 @@ Como é um repositório público, aceito eventuais Pull Requests!
 ## Como utilizar
 
 O laboratório é guiado pelo Jupyter Notebook utilizando o Google Colab. Você pode utilizar em outros ambientes com pequenos ajustes em bibliotecas que precisam ser instaladas.
+
 Acesse aqui: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/vector-databases-intro/blob/master/laboratorio.ipynb)
 
