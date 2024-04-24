@@ -3,7 +3,7 @@
 Este repositório serve de apoio para a palestra de mesmo assunto realizado na Fatec durante a Semana da Tecnologia 2024 em Indaiatuba.
 Como é um repositório público, aceito eventuais Pull Requests!
 
-![](imagem/high-dimension-vector.png)
+![](imagens/high-dimension-vector.png)
 
 ### Pacotes utilizados
 
